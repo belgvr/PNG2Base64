@@ -22,7 +22,7 @@ Example
 Suppose you have an input PNG file named example.png. To convert it, run the following command:
 
 ```bash
-python convpngtobin.py -f example.png
+python PNG2Base64.py -f example.png
 ```
 
 The script will generate **example.txt**, which contains the base64-encoded data
